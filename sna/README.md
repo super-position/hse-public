@@ -6,7 +6,9 @@ Social Network Analysis Spring 2018 HSE MAGoLEGO course homework
 [Work-in-progress page](http://www.leonidzhukov.net/hse/2018/sna/).
 
 [You Tube Lecture page in Eng](https://www.youtube.com/watch?v=wwam5UZO7os&list=PLriUvS7Iljvn0GYwsGSRA8PWSE9eEiEoE),   
-[You Tube Lecture page in Rus](https://www.youtube.com/watch?v=kSezaqwk4vQ&list=PLriUvS7IljvlDQfqebSlmVZf1B5YLztM9)
+[You Tube Lecture page in Rus](https://www.youtube.com/watch?v=kSezaqwk4vQ&list=PLriUvS7IljvlDQfqebSlmVZf1B5YLztM9)  
+  
+[Wi-ki page](http://wiki.cs.hse.ru/Magolego_sna_2015)  
 
 Authored and given by [Leonid Zhukov](http://www.leonidzhukov.net/). Seminars held by [Ilya Makarov](https://www.hse.ru/en/staff/iamakarov).
 
