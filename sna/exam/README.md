@@ -1,4 +1,4 @@
-# This is exam prem materials 
+# This is exam prep materials 
 Before entering exam 
 1. Merge all lectures and go other all slides and pictures   
 2. Look into formulas and learn how to count 
