@@ -6,3 +6,4 @@ Before entering exam
   
 Look into books, such as:  
 [Networks, Crowds, and Markets:Reasoning About a Highly Connected World By David Easley and Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/networks-book/),  
+[Network science book](http://networksciencebook.com/chapter/3#homework3),  
